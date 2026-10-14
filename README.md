@@ -1,29 +1,29 @@
- Rainfall Prediction Using Machine Learning
+# Rainfall Prediction Using Machine Learning
 
- Objective
-To predict rainfall using basic weather parameters such as temperature and humidity using machine learning techniques.
+## Objective
+To predict rainfall using weather parameters such as temperature and humidity with machine learning techniques.
 
- Description
-This project demonstrates a simple machine learning approach for rainfall prediction. Linear Regression and Random Forest models are used to learn patterns from weather data and predict rainfall values. The focus of the project is on understanding the complete ML workflow in a clear and practical manner.
+## Description
+This project demonstrates a simple machine learning approach to rainfall prediction using weather data. Linear Regression and Random Forest models are used to identify patterns in the data and predict rainfall values. The project focuses on understanding the complete machine learning workflow, from data preprocessing to model evaluation.
 
- Tools Used
- Python
- Pandas
- NumPy
- Matplotlib
- Scikit-learn
- Google Colab
+## Tools Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Google Colab
 
- Key Features
- Uses multiple weather parameters
- Comparison of regression models
- Performance evaluation using standard metrics
- Lightweight and beginner-friendly design
+## Key Features
+- Uses multiple weather parameters for prediction
+- Compares Linear Regression and Random Forest models
+- Evaluates model performance using standard metrics
+- Provides a lightweight and beginner-friendly implementation
 
- Applications
- Agriculture planning
- Weather monitoring
- Educational machine learning projects
+## Applications
+- Agricultural planning
+- Weather monitoring
+- Educational machine learning projects
 
-Author
+## Author
 Krishna Murthy K
